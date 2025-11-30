@@ -15,6 +15,7 @@ Configurable and ready for deployment or further research
 ## Model Performance
 ### The final model achieved the following results on the test dataset:
 Best threshold for Cohen's Kappa: 0.900
+
 Cohen’s Kappa Score: 0.5375
 Test AUC: 0.8990247644093798
 Test F1-score: 0.856156501726122
