@@ -17,10 +17,15 @@ Configurable and ready for deployment or further research
 Best threshold for Cohen's Kappa: 0.900
 
 Cohen’s Kappa Score: 0.5375
+
 Test AUC: 0.8990247644093798
+
 Test F1-score: 0.856156501726122
+
 Precision: 0.7766179540709812
+
 Recall: 0.9538461538461539
+
 Cohen’s Kappa (post thresholding): 0.5374653098982424
 
 These results indicate a high-sensitivity model capable of detecting pneumonia effectively while maintaining strong overall diagnostic performance.
